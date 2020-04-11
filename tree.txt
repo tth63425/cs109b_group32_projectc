@@ -1,0 +1,54 @@
+.
+├── Arkansas-text
+│   ├── bag-info.txt
+│   ├── bagit.txt
+│   ├── data
+│   │   └── data.jsonl.xz
+│   └── manifest-sha512.txt
+├── Arkansas-xml
+│   ├── bag-info.txt
+│   ├── bagit.txt
+│   ├── data
+│   │   └── data.jsonl.xz
+│   └── manifest-sha512.txt
+├── Illinois-text
+│   ├── bag-info.txt
+│   ├── bagit.txt
+│   ├── data
+│   │   └── data.jsonl.xz
+│   └── manifest-sha512.txt
+├── Illinois-xml
+│   ├── bag-info.txt
+│   ├── bagit.txt
+│   ├── data
+│   │   └── data.jsonl.xz
+│   └── manifest-sha512.txt
+├── New\ Mexico-text
+│   ├── bag-info.txt
+│   ├── bagit.txt
+│   ├── data
+│   │   └── data.jsonl.xz
+│   └── manifest-sha512.txt
+├── New\ Mexico-xml
+│   ├── bag-info.txt
+│   ├── bagit.txt
+│   ├── data
+│   │   └── data.jsonl.xz
+│   └── manifest-sha512.txt
+├── North\ Carolina-text
+│   ├── bag-info.txt
+│   ├── bagit.txt
+│   ├── data
+│   │   └── data.jsonl.xz
+│   └── manifest-sha512.txt
+├── North\ Carolina-xml
+│   ├── bag-info.txt
+│   ├── bagit.txt
+│   ├── data
+│   │   └── data.jsonl.xz
+│   └── manifest-sha512.txt
+├── bash.sh
+├── caselaw_akira_eda.ipynb
+└── tree.txt
+
+16 directories, 35 files
