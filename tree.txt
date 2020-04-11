@@ -11,6 +11,9 @@
 │   ├── data
 │   │   └── data.jsonl.xz
 │   └── manifest-sha512.txt
+├── EDA
+│   ├── brendan_caselaw_20200407.ipynb
+│   └── caselaw_akira_eda.ipynb
 ├── Illinois-text
 │   ├── bag-info.txt
 │   ├── bagit.txt
@@ -48,7 +51,6 @@
 │   │   └── data.jsonl.xz
 │   └── manifest-sha512.txt
 ├── bash.sh
-├── caselaw_akira_eda.ipynb
 └── tree.txt
 
-16 directories, 35 files
+17 directories, 36 files
